@@ -1,14 +1,4 @@
 # Security Tools List
-<img src="https://www.xcitium.com/images/cyber-threat-intelligence.png" />
 
 A compiled list of cybersecurity tools for reference.
-
-I. THREAT INTELLIGENCE TOOLS
-  - <p><a href="https://attack.mitre.org/">MITRE ATT&CK</a>: The ATT&CK framework is a knowledge base of adversary behaviour, focusing on the indicators and tactics. Security analysts can use the information to be thorough while investigating and tracking adversarial behaviour.</p>
-  - <p><a href="https://oasis-open.github.io/cti-documentation/taxii/intro">TAXII</a>: The Trusted Automated eXchange of Indicator Information (TAXII) defines protocols for securely exchanging threat intel to have near real-time detection, prevention and mitigation of threats.</p>
-  - <p><a href="https://oasis-open.github.io/cti-documentation/stix/intro">STIX</a>: Structured Threat Information Expression (STIX) is a language developed for the "specification, capture, characterisation and communication of standardised cyber threat information". It provides defined relationships between sets of threat info such as observables, indicators, adversary TTPs, attack campaigns, and more.</p>
-  - <p><a href="https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html">Cyber Kill Chain</a>: Developed by Lockheed Martin, the Cyber Kill Chain breaks down adversary actions into steps. This breakdown helps analysts and defenders identify which stage-specific activities occurred when investigating an attack.</p>
-  <img src="https://tryhackme-images.s3.amazonaws.com/user-uploads/5fc2847e1bbebc03aa89fbf2/room-content/ef67be43aaf8073a8309df3e160c7e36.png" />
-  - <p><a href=""></a>: </p>
-  - <p><a href=""></a>: </p>
   
